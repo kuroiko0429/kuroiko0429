@@ -42,7 +42,19 @@
 
 ## `$ ls ~/projects`
 
-### 🖥️ [Tail-Pulse](https://github.com/kuroiko0429/tail-pulse.git)
+### 🪟 [hyprscroller-ng](https://github.com/kuroiko0429/hyprscroller-ng)
+> アーカイブされたhyprscrollingをHyprland最新APIで作り直したプラグイン
+
+`C++` `Hyprland` `CMake`
+
+- ウィンドウを独立したカラムに昇格 / フルスクリーン展開
+- カラム幅・ウィンドウ高さの動的リサイズ
+- マルチモニター対応 / カスタムスクロールアニメーション
+- AIを活用して最新HyprlandのInternal APIに対応させて再実装
+
+---
+
+### 🖥️ [Tail-Pulse](https://github.com/kuroiko0429/tail-pulse)
 > Tailscaleネットワーク内の全デバイス監視TUI — Watch Dogs風デザイン
 
 `Go` `Bubble Tea` `Lip Gloss`
@@ -56,7 +68,7 @@
 ### 📅 [daigaku-calendar](https://github.com/kuroiko0429/daigaku-calendar)
 > 大学時間割をYAMLで管理してsystemdデーモンで授業前通知を飛ばすツール
 
-`Python` `systemd` `YAML`
+`Go` `Bubble Tea` `systemd` `YAML`
 
 - 授業N分前にデスクトップ通知
 - 前後期切り替え / 祝日対応
@@ -64,7 +76,7 @@
 
 ---
 
-### 🖱️ [wheelpad-daemon](https://github.com/kuroiko0429/let-s-note-wheelpad.git)
+### 🖱️ [wheelpad-daemon](https://github.com/kuroiko0429/let-s-note-wheelpad)
 > Wayland/Hyprland環境でPanasonic Let's Noteのホイールパッドを動かすPythonデーモン
 
 `Python` `evdev` `systemd`
@@ -76,7 +88,7 @@
 
 ---
 
-### 🚬 [iqos-tracker](https://github.com/kuroiko0429/iqos-tracker.git)
+### 🚬 [iqos-tracker](https://github.com/kuroiko0429/iqos-tracker)
 > IQOS消費量トラッキングTUI — ターミナル愛好家のために作った
 
 `Python` `Textual` `SQLite3`
