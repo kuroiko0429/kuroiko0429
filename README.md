@@ -76,7 +76,7 @@
 
 ---
 
-### 🚬 [iqos-tracker](https://github.com/kuroiko0429/iqos-jan-project)
+### 🚬 [iqos-tracker](https://github.com/kuroiko0429/iqos-tracker.git)
 > IQOS消費量トラッキングTUI — ターミナル愛好家のために作った
 
 `Python` `Textual` `SQLite3`
