@@ -42,7 +42,7 @@
 
 ## `$ ls ~/projects`
 
-### 🖥️ [Tail-Pulse](https://github.com/kuroiko0429/tail-pluse)
+### 🖥️ [Tail-Pulse](https://github.com/kuroiko0429/tail-pulse.git)
 > Tailscaleネットワーク内の全デバイス監視TUI — Watch Dogs風デザイン
 
 `Go` `Bubble Tea` `Lip Gloss`
