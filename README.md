@@ -64,7 +64,7 @@
 
 ---
 
-### 🖱️ [wheelpad-daemon](https://github.com/kuroiko0429/wheelpad)
+### 🖱️ [wheelpad-daemon](https://github.com/kuroiko0429/let-s-note-SV1-wheelpad.git)
 > Wayland/Hyprland環境でPanasonic Let's Noteのホイールパッドを動かすPythonデーモン
 
 `Python` `evdev` `systemd`
