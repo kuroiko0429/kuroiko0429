@@ -21,7 +21,7 @@
 
 ## `$ whoami`
 
-```fish
+```bash
 > kuroiko --info
 
   role      : CS student / tinkerer / terminal dweller
